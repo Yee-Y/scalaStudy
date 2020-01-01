@@ -6,6 +6,7 @@ import java.lang.reflect.Field;
 // 111111
 
 public class zhangshaojun {
+    public String name = "李四"
     public static void main(String[] args)throws  Exception {
         User user = new User();
         user.clone();
