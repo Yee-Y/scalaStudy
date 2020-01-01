@@ -6,6 +6,7 @@ import java.lang.reflect.Field;
 // 222222
 
 public class zhangshaojun {
+    public int age = 20
     public static void main(String[] args)throws  Exception {
         User user = new User();
         user.clone();
