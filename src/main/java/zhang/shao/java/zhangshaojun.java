@@ -3,10 +3,6 @@ package zhang.shao.java;
 import java.lang.reflect.Field;
 
 
-// 开发人员在开发, 请勿打扰!
-// Maven  project need to be imported
-// 2020 年到了   何去何从
-// 厉害了  厉害了
 
 public class zhangshaojun {
     public static void main(String[] args)throws  Exception {
