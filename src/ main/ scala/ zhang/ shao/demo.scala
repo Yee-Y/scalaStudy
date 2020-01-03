@@ -5,3 +5,5 @@ class demo {
     val unit: Unit = fff.test()
   }
 }
+
+// 无需任何代码即可xue'xi
